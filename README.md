@@ -1,5 +1,5 @@
 # 💫 About Me:
-Third-Year Student of Informatics and Computer Engineering @ FEUP
+3rd-Year Student of Informatics and Computer Engineering @ FEUP
 
 
 ## 🌐 Socials:
